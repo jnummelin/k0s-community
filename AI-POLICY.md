@@ -24,16 +24,6 @@ This policy prohibits:
 - Using AI co-signing on commits
 - Adding trailers like "assisted-by" or "co-developed" that attribute work to AI
 
-<!-- 
-Should we mention something about super long AI-generated descriptions in issues and PRs?
--->
-
-## Transparency
-
-<!-- 
-This needs discussion with maintainers, do we want to always have AI use disclosure in each PR? Do we care?
--->
-
 ## Human engagement required
 
 Project maintainers, reviewer and other contributors are expecting to engage directly with humans. This means that one cannot rely on AI tools to respond to review or issue comments. If you cannot personally respond and engage, without using AI tools, in the discussion to explain your proposed changes (whether or not AI assisted in generating them), your contribution will be rejected. This ensures that design decisions are properly communicated and understood and also we leave a written trail of crumbs for future reference.
