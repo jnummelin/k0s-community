@@ -2,7 +2,7 @@
 
 This document outlines the guidelines and principles for the use of artificial intelligence (AI) within our organization.
 
-We use the [Kubernetes AI policy](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) as the base for our own AI policy.
+We use the [Kubernetes AI policy](https://www.kubernetes.dev/docs/guide/pull-requests/#ai-guidance) as the base for our own AI policy.
 
 These policies reflects our approach to AI: embrace it as a tool, and tool only, never let AI to replace human judgement, understanding, common sense, and critical thinking.
 
